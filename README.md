@@ -1,10 +1,10 @@
-# be-persisting
+# be-persisting [TODO]
 
-be-persisting, be-persistent, be-obsessing overlap quite a bit.  They are all concerned with storing user data locally.
+be-persisting, [be-persistent](https://github.com/bahrus/be-persistent), [be-obsessing](https://github.com/bahrus/be-obsessing) overlap quite a bit.  They are all concerned with storing user data locally.
 
 The differences in a nutshell:
 
-be-persisting focuses on storing data in IndexedDB, and is configured primarily through "Hemingway notation".  Complete English statements (including the name of the attribute).
+be-persisting (this package) focuses on storing data in IndexedDB, and is configured primarily through "Hemingway notation" -  complete English statements (including the name of the attribute).
 
 be-obsessing does the same, but focusing on session storage.
 
